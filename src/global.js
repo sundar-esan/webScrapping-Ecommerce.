@@ -1,1 +1,1 @@
-export const API ="https://webscraping-giy3.onrender.com/"
+export const API ="https://webscraping-giy3.onrender.com"
